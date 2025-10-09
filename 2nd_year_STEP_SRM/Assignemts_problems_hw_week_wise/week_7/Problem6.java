@@ -1,5 +1,4 @@
 // 🧪 PROBLEM 6: Smart Campus IoT System
-// Concept: Safe Downcasting with instanceof
 
 class SmartDevice {
     String name;
