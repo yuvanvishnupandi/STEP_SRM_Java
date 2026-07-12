@@ -1,5 +1,5 @@
 
-# STEP SRM Java
+# STEP_SRM_Java 
 
 This repository contains Java programs, assignments, and class notes for **STEP Classes at SRM**.  
 The goal of this project is to practice and build a strong foundation in **Java programming** and related concepts.
